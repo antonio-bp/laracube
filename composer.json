@@ -1,10 +1,10 @@
 {
-    "name": "laracube/laracube",
+    "name": "antonio-bp/laracube",
     "description": "Reporting package for laravel",
     "keywords": [
         "laracube"
     ],
-    "homepage": "https://github.com/laracube/laracube",
+    "homepage": "https://github.com/antonio-bp/laracube",
     "license": "MIT",
     "type": "library",
     "authors": [
